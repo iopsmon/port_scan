@@ -1,4 +1,4 @@
-# port_scan - <Perl Script> 
+# port_scan / perl script
 Scans common server ports 
 ================================================================================================
 Step 1 Create a file called myhosts.txt and add your server name / ip address in it, copy this file into the same folder as the perl script.
